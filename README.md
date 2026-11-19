@@ -42,7 +42,7 @@ I enjoy working where visual thinking meets engineering: understanding a problem
 ## 02 — Education
 
 **Computer Software Engineering**  
-Public University (Iran) · **2011–2016**
+ University of Tabriz (Iran) · **2011–2016**
 
 <p align="center">
   <img src="assets/divider.svg" alt="Decorative section divider" width="100%" />
