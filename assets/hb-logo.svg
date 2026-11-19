@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200" role="img" aria-labelledby="t d">
+  <title id="t">HB monogram</title>
+  <desc id="d">Hexagon frame enclosing a geometric H whose right stem is shared with a B.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8B5CF6"></stop>
+      <stop offset="0.55" stop-color="#6366F1"></stop>
+      <stop offset="1" stop-color="#38BDF8"></stop>
+    </linearGradient>
+  </defs>
+  <polygon points="100,10 177.9,55 177.9,145 100,190 22.1,145 22.1,55" fill="#09090F" stroke="url(#g)" stroke-width="4" stroke-linejoin="round"></polygon>
+  <g transform="translate(-2 0)" fill="none" stroke="url(#g)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M52 45V155"></path>
+    <path d="M52 100H100"></path>
+    <path d="M100 45V155"></path>
+    <path d="M100 45H122A27.5 27.5 0 0 1 122 100H100"></path>
+    <path d="M100 100H126A27.5 27.5 0 0 1 126 155H100"></path>
+  </g>
+</svg>
