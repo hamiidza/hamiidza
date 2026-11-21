@@ -1,5 +1,5 @@
 <!--
-  HAMIDREZA BORZUEI | hamiidza
+  HAMIDREZA BORZUEI | HAMIIDZA
   GitHub profile README
   Keep this repository named exactly: hamiidza
 -->
